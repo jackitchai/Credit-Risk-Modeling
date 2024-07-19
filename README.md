@@ -27,3 +27,4 @@ model/ -> save and load machine learning model
 
 
 ## Scorecard 
+<img src="image/score_card.png">
